@@ -1,0 +1,5 @@
+apache-beam==2.15.0
+google-cloud-core==1.0.3
+googledatastore==7.0.2
+google-apitools==0.5.28
+Cython==0.29.13
